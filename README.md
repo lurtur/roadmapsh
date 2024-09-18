@@ -2,8 +2,8 @@
 The purpose of this repository is to show the implementation for the roadmap.sh test projects.
 
 ## Frontend Projects
-1. [Singe Page - CV](https://roadmap.sh/projects/single-page-cv)
-2. [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+1.0 [Singe Page - CV](https://roadmap.sh/projects/single-page-cv)
+2.0 [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 
 ## Instructions
 To run each project perform the following steps:
